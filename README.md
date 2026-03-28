@@ -1,11 +1,11 @@
 
-### Olá, me chamo Davi Matheus 🖐🏼
+### Hi, i'm Davi Matheus 🖐🏼
 
 **`Fullstack Developer`**
 
 **`Tecnólogo de Análise e Desenvolvimento de Sistemas`**
 
-## Tecnologias que utilizo:
+## Technologies:
 
 <div style = "display: inline_block"> <br/>
     <img align="center" alt="html"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -
@@ -25,7 +25,7 @@
     <br>
 Apaixonado por tecnologia, aprendizado contínuo e clube de regatas vasco da gama! 💢
 
-## Redes Sociais e Afins:
+## Social Media:
 
 <div style = "Social_Media"> <br/>
     <ul>
