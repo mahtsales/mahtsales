@@ -1,7 +1,7 @@
 
 ### Olá, me chamo Davi Matheus 🖐🏼
 
-**`Desenvolvedor Fullstack`**
+**`Fullstack Developer`**
 
 **`Tecnólogo de Análise e Desenvolvimento de Sistemas`**
 
